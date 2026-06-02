@@ -50,10 +50,4 @@ The purpose of this design is to create an attractive invitation poster for a gr
 
 ---
 
-## 🌐 Website
-
-www.sourashtracollege.com
-
----
-
 ### "Celebrate the journey. Cherish the memories. Welcome the future." 🎓
