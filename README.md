@@ -24,10 +24,6 @@ The poster follows a clean and premium design style with a black and gold theme 
 
 ## ✨ Design Features
 
-
-https://github.com/user-attachments/assets/008ecac2-d55c-4ca9-8ae0-39b5f0594594
-
-
 - Graduation celebration theme
 - Sunset background with graduate silhouettes
 - Modern typography style
